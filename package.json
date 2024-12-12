@@ -10,7 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.49.1",
     "@types/node": "^22.10.2",
-    "openapi-typescript": "^7.4.4"
+    "openapi-typescript": "^7.4.4",
+    "typescript": "^5.7.2"
   },
   "dependencies": {
     "dotenv": "^16.4.7"
